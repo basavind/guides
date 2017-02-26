@@ -14,7 +14,7 @@
 ![Нажимаем на кнопку редактирования](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/start-edit.png)
 ## 7. Вносим правки
 > Правки вносятся с использованием языка разметки **Markdown**
-
+> 
 > [Основные конструкции и примеры **Markdown**](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ![Редактируем](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/edit.png)
