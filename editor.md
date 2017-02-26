@@ -14,7 +14,7 @@
 тексте используются «елочки» и кавычки типа „лапки“ в случае вложенных кавычек:
 «„Цыганы“ мои не продаются вовсе», — сетовал Пушкин.
 
-![Кавычки](https://raw.githubusercontent.com/kursomir/style-guides/master/img/editors/quotes.jpg)
+![Кавычки](https://raw.githubusercontent.com/kursomir/guides/master/img/editors/quotes.jpg)
 
 ## Тире/дефисы
 
@@ -25,7 +25,7 @@
 частью слова, пробелами не отбивается: по-русски, диван-кровать и проч. Если мое
 пояснение для вас слишком заумно, предлагаю ознакомиться с инфографикой:
 
-![Тире/дефисы](https://raw.githubusercontent.com/kursomir/style-guides/master/img/editors/dashes.jpg)
+![Тире/дефисы](https://raw.githubusercontent.com/kursomir/guides/master/img/editors/dashes.jpg)
 
 ## Буква ё
 
