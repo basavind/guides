@@ -3,8 +3,9 @@
 > Рассмотрим на примере стайлгайда для редакторов
 
 ## 1. Регистрируемся на [github.com](https://github.com) (всё как обычно)
-## 2. Заходим в нужный репозиторий, если мы говорим про стайлгайды, то заходим
-в этот — [kursomir/style-guides](https://github.com/kursomir/style-guides)
+## 2. Заходим в нужный репозиторий, если мы говорим про стайлгайды, то заходим в [kursomir/style-guides](https://github.com/kursomir/style-guides)
+> В шапке каждого такого гайда есть кнопочка `View on GitHub`, которая ведет в репозиторий, где располагается этот гайд
+
 ## 3. Перед вами откроется список файлов, хранящихся в репозитории
 ## 4. Выбираем нужный файл в формате *Markdown*, в данном случае это файл `editor.md`
 ![Выбираем файл](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/open-file.png)
@@ -14,7 +15,7 @@
 ![Нажимаем на кнопку редактирования](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/start-edit.png)
 ## 7. Вносим правки
 > Правки вносятся с использованием языка разметки **Markdown**
-> 
+>
 > [Основные конструкции и примеры **Markdown**](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ![Редактируем](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/edit.png)
