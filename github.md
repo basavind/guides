@@ -13,6 +13,10 @@
 ## 6. Нажимаем на карандашик в правом верхнем углу (который переносит в форму для правок)
 ![Нажимаем на кнопку редактирования](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/start-edit.png)
 ## 7. Вносим правки
+> Правки вносятся с использованием языка разметки **Markdown**
+
+> [Основные конструкции и примеры **Markdown**](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
 ![Редактируем](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/edit.png)
 ## 8. Пролистываем вниз и пишем в поле пояснение, что за правки вы внесли (желательно на английском, но не обязательно)
 ![Комментируем правки](https://raw.githubusercontent.com/kursomir/style-guides/master/img/github/add-commit-message.png)
