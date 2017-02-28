@@ -1,5 +1,5 @@
 1. [Как вносить правки людям не знакомым с **GitHub**?](https://kursomir.github.io/guides/github)
 2. [Краткое пособие для редакторов](https://kursomir.github.io/guides/editor)
 3. [Краткое пособие для видеомонтажеров](https://kursomir.github.io/guides/video)
-4. [Как задать вопрос на гитхабе](https://kursomir.github.io/guides/creating-issues)
+4. [Как задать вопрос (issue) на GitHub](https://kursomir.github.io/guides/issues)
 5. [Как работать с уведомлениями на GitHub](https://kursomir.github.io/guides/notifications)
